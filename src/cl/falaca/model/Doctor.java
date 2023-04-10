@@ -1,4 +1,4 @@
-package cl.falaca.main;
+package cl.falaca.model;
 
 import java.util.ArrayList;
 import java.util.Date;

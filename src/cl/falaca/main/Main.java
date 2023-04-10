@@ -4,6 +4,9 @@ import static cl.falaca.main.ui.UIMenu.*;
 
 import java.util.Date;
 
+import cl.falaca.model.Doctor;
+import cl.falaca.model.Patient;
+
 public class Main {
 
 	public static void main(String[] args) {

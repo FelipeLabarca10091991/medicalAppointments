@@ -1,4 +1,4 @@
-package cl.falaca.main;
+package cl.falaca.model;
 
 public class User {
 
